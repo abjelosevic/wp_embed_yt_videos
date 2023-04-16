@@ -3,8 +3,8 @@
  * Embed YT Videos
  *
  * Plugin Name: Embed YT Videos
- * Plugin URI:  https://wordpress.org/plugins/classic-editor/
- * Description: Pronađi sve youtube linkove u tekstu i ako postoje youtube linkovi ugradi video koristeći iframe
+ * Plugin URI:  https://aleksandar.bjelosevic.info
+ * Description: Find all youtube links in the text and if there are youtube links embed the video using iframe
  * Version:     1.0.0
  * Author:      Aleksandar Bjelosevic
  * Author URI:  https://aleksandar.bjelosevic.info
